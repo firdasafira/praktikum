@@ -2,4 +2,6 @@
 <head>
 <title> PRAKTIKUM </title>
 </head>
+<body>
+</body>
 </html>
